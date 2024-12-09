@@ -1,0 +1,4 @@
+Inspect GlobalSign_Root_CA.pem. What is the public key algorithm used?
+Inspect GlobalSign_Root_CA.pem. What is the siganture algorithm used?
+Inspect Amazon_Root_CA_1.pem. What is the signature algorithm used?
+Inspect Certigna.pem. What is the expirty date of the certificate? (DD-MM-YYYY)

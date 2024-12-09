@@ -1,0 +1,3 @@
+Inspect the TLS stream embedded in TCP stream 0. Which cipher is common between both SSL end points?
+Inspect the TLS stream embedded in TCP stream 0. Which protocol was used for communication?
+Inspect the TLS stream embedded in TCP stream 0. What is the master key used for the session (in hex)?

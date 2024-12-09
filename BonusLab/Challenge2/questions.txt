@@ -1,0 +1,18 @@
+Inspect Packet #1. What is the destination IP address of the packet?
+
+## 75.75.75.75
+
+Inspect Packet #5. What is the query type (short form)?
+
+## DS
+
+Inspect Packet #7. What is the query type (short form)?
+
+## DNSKEY
+
+Inspect Packet #10 and look at the answer of type RRSIG. What is the signature (in hex)?
+
+## 40999bb0a73b10fe268d378c9dfec0deb56022a0237d37be8998e0b9d4f77882a8494ecce64ad06c887d5fdab1c0b2b7179736f5fbe954798334fdb5f1b5bbae2c1e25b642477c832618e2a26240571ee15df56f819544d9bcde86dacfaf9d623a20849112d1d86558a009c390465f806be6d360eb31e61c6438043c67505b46
+
+
+### Flag = cs406{15_dn5_n0t_53cur3?}

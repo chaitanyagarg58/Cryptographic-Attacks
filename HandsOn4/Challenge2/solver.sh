@@ -1,0 +1,1 @@
+echo | openssl s_client -servername cse.iitb.ac.in -connect cse.iitb.ac.in:443 2>/dev/null | openssl x509 -noout -issuer 2>/dev/null | awk -F '=' '/CN/{print $NF}' | sed -e 's/ /\_/g' -e 's/.*/cs406{\0}/g'
